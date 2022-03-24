@@ -1,0 +1,1 @@
+Le but de ce projet est d’utiliser un réseau de neurones à convolution pour reconnaitre les lettres de la langue américaine des signes à partir d’images. Réalisé en Python avec Keras, numpy et pandas
